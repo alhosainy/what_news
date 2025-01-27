@@ -1,0 +1,1 @@
+const String onImagePlaceholder = 'https://fakeimg.pl/600x400/1c1c1c/d6d6d6?text=NO+IMAGE+FOUND';
