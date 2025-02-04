@@ -10,8 +10,9 @@ A Flutter project that provides the latest news articles using the NewsData API.
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Article List](screenshots/article_list.png)
+| ![Home Screen](assets/images/splash_schreen.png) | ![Article List](assets/images/articles_schreen.png) |
+|:--:|:--:|
+| Splash Screen | Home Screen |
 
 ## Getting Started
 
